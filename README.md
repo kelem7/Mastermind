@@ -1,6 +1,8 @@
 ## The Odin Project - Ruby Programming 
 ### Project: Mastermind
 
+(Work in Progress)
+
 Built a version of [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) in Ruby that a player can play against the computer.
 
 This project is from The Odin Project's [curriculum](https://www.theodinproject.com/courses/ruby-programming/lessons/mastermind).
